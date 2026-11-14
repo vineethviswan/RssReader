@@ -66,3 +66,13 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# JetBrains IDEs
+.idea/
+
+# Environment files
+.env.*
+
+# CMake generated files
+CMakeFiles/
+cmake-build-*/
